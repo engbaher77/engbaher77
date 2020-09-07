@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br> I'm Baher, Software Developer from <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> <b>Egypt, Cairo</b>
-<h3>Things I code with</h3>
-
+<p>
+  Welcome to my page! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br> 
+  I'm Baher, Software Developer from 
+  <img src="https://image.flaticon.com/icons/svg/323/323324.svg" width="13"/> 
+  <b>Egypt, Hurghada</b>
+  <h3>Things I code with</h3>
 <p>
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-61B984?style=flat-square&logo=VUE.JS&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-39485B?style=flat-square&logo=NUXT.JS&logoColor=white" />
