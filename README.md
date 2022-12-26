@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
   <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engbaher77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engbaher77&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbaher77&layout=compact&langs_count=8&theme=algolia"/>
-    [![Ahmed-basher's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-basher1&theme=vue)
-
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details/?username=engbaher77&layout=compact&langs_count=8&theme=algolia"/>
   </p>
 </p>
