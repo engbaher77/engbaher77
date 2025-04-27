@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Baher Elnagger
-- 🌱 I'm Tech Lead @Aiactive SAE
+- 🌱 I'm Software Engineer @Viavi Solutions
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
